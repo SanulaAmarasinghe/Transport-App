@@ -61,7 +61,6 @@ The Transport Request Management App is a PowerApps-based solution designed to s
 
 ## Future Enhancements
 - Integration with Power BI for advanced reporting.
-- Mobile app deployment for on-the-go usage.
 - GPS-based route optimization.
 
 ---
